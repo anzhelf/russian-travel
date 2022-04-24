@@ -1,0 +1,23 @@
+.lead__image_type_map {
+  width: 95%;
+  position: absolute;
+  top: 90.21px;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__image_type_map {
+    top: 85.07px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__image_type_map {
+    top: 70.41px;
+  }
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+  .lead__image_type_map {
+    top: 29.34px;
+  }
+}

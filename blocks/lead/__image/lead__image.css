@@ -1,0 +1,5 @@
+.lead__image {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}

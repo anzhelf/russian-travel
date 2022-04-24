@@ -1,0 +1,16 @@
+/*  нормолайз шрифты блок элемент модификатор*/
+/*@font-face {
+  font-family: "inter";
+  font-weight: bold;
+  src: url(fonts/Inter/Inter-Bold.woff2) format(woff2);
+  src: url(fonts/Inter/Inter-Bold.woff) format(woff);
+}
+
+@font-face {
+  font-family: "inter";
+  font-weight: normal;
+  src: url(fonts/Inter/Inter-Regular.woff2) format(woff2);
+  src: url(fonts/Inter/Inter-Regular.woff) format(woff);
+}*/
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap");
