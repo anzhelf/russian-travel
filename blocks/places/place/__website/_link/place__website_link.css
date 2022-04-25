@@ -6,3 +6,7 @@
   margin: 0;
   margin-top: 12px;
 }
+
+.place__website_link:hover {
+  opacity: 0.2;
+}

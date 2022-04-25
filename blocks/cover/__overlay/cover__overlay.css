@@ -6,7 +6,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
 
-  /*background-color: #2A2C2F;
-  opacity: 0.3;*/
+.cover__overlay:hover {
+  background-color: rgba(42, 44, 47, 0.8);
 }
