@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 767px) and (min-width: 320px) {
+@media screen and (max-width: 320px) {
   .lead__image_type_map {
     top: 29.34px;
   }
