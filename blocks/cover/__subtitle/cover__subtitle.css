@@ -28,7 +28,7 @@
 
 @media screen and (max-width: 400px) {
   .cover__subtitle {
-    width: calc(100% - 16 * 2);
+    width: calc(100% - 16px*2);
     font-size: 14px;
     line-height: 16px;
     margin: 16px auto 0;
