@@ -4,31 +4,12 @@
   line-height: 22px;
   text-align: center;
   margin: 32px auto 0;
-  width: 40%;
-}
-@media screen and (max-width: 1024px) {
-  .cover__subtitle {
-    margin: 16px auto 0;
-    width: 46%;
-  }
+  width: 360px;
 }
 
 @media screen and (max-width: 768px) {
   .cover__subtitle {
-    margin: 16px auto 0;
-    width: 60%;
-  }
-}
-
-@media screen and (max-width: 588px) {
-  .cover__subtitle {
-    width: 80%;
-  }
-}
-
-@media screen and (max-width: 400px) {
-  .cover__subtitle {
-    width: calc(100% - 16px*2);
+    width: 288px;
     font-size: 14px;
     line-height: 16px;
     margin: 16px auto 0;
