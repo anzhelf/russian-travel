@@ -1,5 +1,6 @@
 .places {
-  margin: 92px auto 92px;
+  margin: 0 auto;
+  padding: 92px 0;
   width: calc(100% - 148px * 2);
   display: grid;
   grid-row-gap: 80px;
@@ -13,7 +14,8 @@
 
 @media screen and (max-width: 1023px) {
   .places {
-    margin: 88px auto 88px;
+    margin: 0 auto;
+    padding: 88px 0;
     width: calc(100% - 24px * 2);
     display: grid;
     grid-row-gap: 73px;
@@ -22,7 +24,8 @@
 
 @media screen and (max-width: 767px) {
   .places {
-    margin: 64px auto 64px;
+    margin: 0 auto;
+    padding: 64px 0;
     width: 100%;
     display: grid;
     grid-row-gap: 50px;

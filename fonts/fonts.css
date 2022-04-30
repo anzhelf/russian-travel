@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Inter';
+  font-family: "Inter";
   font-style: normal;
   font-display: swap;
   font-weight: 900;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: 'Inter';
+  font-family: "Inter";
   font-style: normal;
   font-display: swap;
   font-weight: 700;
@@ -17,12 +17,10 @@
 }
 
 @font-face {
-  font-family: 'Inter';
+  font-family: "Inter";
   font-style: normal;
   font-display: swap;
   font-weight: 400;
   src: url("../font-inter/Inter/Inter-Regular.woff2") format("woff2");
   src: url("../font-inter/Inter/Inter-Regular.woff") format("woff");
 }
-
-/*@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap");*/
