@@ -1,5 +1,4 @@
 .header {
-  margin: 0 auto;
   width: calc(100% - 48px * 2);
   display: flex;
   justify-content: space-between;
